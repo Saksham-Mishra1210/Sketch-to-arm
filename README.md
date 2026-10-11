@@ -94,4 +94,4 @@ shape, and a path-simplification accuracy measurement.
 
 ## Author
 
-Saksham Mishra
+Saksham Mishra (BT25MME102)
