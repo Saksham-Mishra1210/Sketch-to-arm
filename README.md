@@ -91,6 +91,10 @@ shape, and a path-simplification accuracy measurement.
 2. Upload a photo of a shape (simple drawing or photographed object)
 3. Run cells top to bottom
 4. The final cell renders an animation of the simulated arm tracing the shape
+5. Note: the animation output uses interactive JavaScript, which may not
+render in GitHub's notebook preview. Open the notebook in Google Colab
+to see it fully interactive, or view the static frame images included
+alongside it.
 
 ## Author
 
