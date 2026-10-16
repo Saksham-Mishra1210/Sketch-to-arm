@@ -43,7 +43,7 @@ tracing that outline using inverse kinematics derived from scratch.
 
 - IK/FK round-trip accuracy: mean/max error ~1e-16 (floating-point precision
   noise), confirming the derived kinematics are mathematically exact
-- Path simplification reduced a 195-point triangle contour to 5 meaningful
+- Path simplification reduced a 455-point triangle contour to 3 meaningful
   points (the corners), while visually preserving the original shape
 - Automated epsilon selection (`auto_simplify`) independently converged to
   the same result as manual tuning, and generalized to a more complex shape
